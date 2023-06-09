@@ -3,6 +3,12 @@
 
 From the March of 2023, I have worked actively as a graphics designer on various organizations. This repository contains some of the designs I have preserved and uploaded. Note that these posters are LICENSED under the GPL 3.0 license, meaning that any kind of distributed use of these posters are permitted, albeit no warranties are provided. 
 
+## <b> A poster congratulating DRMC for receiving the "Best Education Award" at the National Level duyring the National Education Week 2023. <b>
+<hr>
+<br>
+<img src="./drmc_best_college_2023/final.jpg">
+<br>
+
 ## <b> DRMC MATH CLUB CHESS 500 MEMBERS SPECIAL </b>
 <hr>
 <br>
